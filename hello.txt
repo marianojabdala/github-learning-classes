@@ -1,1 +1,2 @@
 First commit on a branch
+Other change on the file
